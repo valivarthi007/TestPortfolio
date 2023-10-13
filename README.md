@@ -1,7 +1,8 @@
-# My Portfolio Website
 
-	Contains My Personal Infor
+# My Test Portfolio Website
 
-## Sub Techs
+Test Portfolio Website
 
-	Technologies i Involved
+## Styles Used
+
+Used bare CSS for now
